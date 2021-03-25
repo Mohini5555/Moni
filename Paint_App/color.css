@@ -1,0 +1,61 @@
+/* Navigation Bar */
+
+.arrows {
+  font-size: 65px;
+  padding: 5px;
+  margin: -12px 0 0 -12px;
+}
+.cross {
+  font-size: 40px;
+  display: inline;
+  padding: 5px;
+}
+input[type="text"] {
+  font-size: 20px;
+  padding: 10px;
+  height: 20px;
+  border: black;
+  width: 60%;
+}
+
+input[type="search"] {
+  font-size: 20px;
+  padding: 20px;
+  height: 40px;
+  border: black;
+  width: 20%;
+  margin-left: 20px;
+}
+h1 {
+  text-align: center;
+  color: black;
+}
+.btn {
+  border: none;
+  color: black;
+  padding: 12px 16px;
+  font-size: 16px;
+  background-color: whitesmoke;
+  size: 20px;
+}
+.flex-container {
+  display: flex;
+  background-color: whitesmoke;
+  padding: 20px;
+  height: 60px;
+}
+
+.flex-container2 {
+  display: flex;
+  background-color: whitesmoke;
+  padding: 20px;
+  height: 500px;
+}
+/* Navigation Bar Ends */
+/* Body starts */
+.btn-1 {
+  width: 10%;
+  height: 30px;
+  margin-left: 20px;
+}
+/* Body Ends */
